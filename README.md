@@ -49,3 +49,26 @@ i had few problems putting forms in a right way and to make it look nicer.
 i checked my code on code validator and got few errors:-
 
 ![Screenshot 2024-11-13 at 13 20 42](https://github.com/user-attachments/assets/302ea1b2-69be-4e47-87e8-6a7f96ab9cc5)
+
+#balsamiq wireframes
+Designing the website with the help of balsamiq wireframes:-
+Balsmiq was very useful tool to design the website beforehand. we can create the layout in balsmic. here are my layouts:-
+
+![Screenshot 2024-11-13 at 13 34 41](https://github.com/user-attachments/assets/153b0cff-d70e-472e-bb8a-0e2c6cd90fd9)
+
+
+![Screenshot 2024-11-13 at 13 35 14](https://github.com/user-attachments/assets/ca9036b7-6c4a-4d64-bb31-1c950ddadcb3)
+
+
+![Screenshot 2024-11-13 at 13 42 56](https://github.com/user-attachments/assets/098f46c8-52a7-46bc-841b-c1876570f80d)
+
+
+#Lighthouse Report
+i checked my website using the tool called lighthouse. here is the screenshot of my report:
+
+Desktop:-
+![Screenshot 2024-11-13 at 13 49 00](https://github.com/user-attachments/assets/1b6594fb-2f41-4331-93da-a71bb92776b3)
+
+Mobile:-
+
+![Screenshot 2024-11-13 at 13 51 29](https://github.com/user-attachments/assets/8430eca2-1852-4e75-86f1-d0033407ef4b)
