@@ -31,3 +31,21 @@ Consider adding functionalities like therapist profiles or online consultations 
 Placeholders like email addresses and phone numbers may need to be updated with your clinic's information.
 The included Bootstrap CSS (https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js) is loaded from a CDN (Content Delivery Network) for efficiency. You can download Bootstrap locally if you prefer.
 I hope this README provides a helpful starting point for understanding and using the Mind Mend Mental Health website code.
+
+![Screenshot 2024-11-13 at 13 09 00](https://github.com/user-attachments/assets/0664c8cc-4cd6-4f8f-b30e-5ce2a7b1e762)
+
+
+
+  some screenshot from the webites:-
+
+  
+![Screenshot 2024-11-13 at 13 13 53](https://github.com/user-attachments/assets/1ac70036-483e-437b-a890-ab87ef9c1186)
+![Screenshot 2024-11-13 at 13 14 09](https://github.com/user-attachments/assets/e51326db-7b09-4dd1-9240-dce4c503c479)
+![Screenshot 2024-11-13 at 13 14 38](https://github.com/user-attachments/assets/62658396-c1bf-4bda-8547-1ab841fa7618)
+
+i have added Home About and contact section. i have also added a functionality to book an appointment wiith the therapist.
+#problems i faced during the project:-
+i had few problems putting forms in a right way and to make it look nicer.
+i checked my code on code validator and got few errors:-
+
+![Screenshot 2024-11-13 at 13 20 42](https://github.com/user-attachments/assets/302ea1b2-69be-4e47-87e8-6a7f96ab9cc5)
